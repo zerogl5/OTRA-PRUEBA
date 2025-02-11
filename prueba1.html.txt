@@ -1,0 +1,5 @@
+hacemos un nuevo añadido
+luego el status
+luego el commit
+y por ultimo hacemos "git push -u origin main"
+y listo :D
